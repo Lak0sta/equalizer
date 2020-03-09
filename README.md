@@ -1,0 +1,2 @@
+# equalizer
+Equalizer visualization
